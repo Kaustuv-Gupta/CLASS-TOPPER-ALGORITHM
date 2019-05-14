@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Project</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Science City, Kolkata</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3958253999999,22.5390556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birla Mandir</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3650761,22.5305931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PVR Diamond Plaza</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.4126418999999,22.615286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kolkata Time Zone Clock Tower</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.4066789999999,22.6001295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>City Centre</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.4085007,22.588261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hatibagan Market</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3714857,22.5947327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parshwanath Jain Temple Belgachhiya</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3825022,22.605429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kumortuli</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3615047,22.5985429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eco Nest</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.4120196,22.6034618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shridhar Thakur Bari</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.360173,22.5934115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nakhoda Masjid</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3561287,22.5777078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muhammad Ali Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3607369,22.5771888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Calcutta</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3629188,22.5750862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B B D Bag</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3499742,22.5711787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raj Bhavan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.34752,22.567261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tirreti Bazaar</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3540244999999,22.5741048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tipu Sultan Masjid</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3520934000001,22.5655184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eden Gardens</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3432645,22.5646081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shaheed Minar</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3492291,22.5628573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Indian Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3511268,22.5578858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort William, India</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3358744,22.5542459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort William Golf Course</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3418445,22.5536296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maidan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3448236,22.5503969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Memorial Garden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3423954,22.5468443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Memorial</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3425578,22.5448082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Paul's Cathedral]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3466817999999,22.5442428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nehru Children's Museum]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3471185,22.5423884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nandan West Bengal Film Centre</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3454770999999,22.5422666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Academy of Fine Arts</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3453644,22.5430326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rabindra Sadan Garden & Fountain]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.344297,22.5419094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birla Mandir</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3401284,22.5334954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alipore Zoo Aquarium</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3343308,22.53633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Library</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3334199999999,22.5331553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Deshapriya Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3535277,22.518424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oudh 1590</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3502392,22.5186095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>China Town</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.347931,22.513388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maha Kal Shiv MANDIR.</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3405072,22.5161643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Garden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.347379,22.5090616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calcutta University Rowing Club</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3530622999999,22.5102021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rabindra Sarobar</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3503359,22.5091812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golf Gardens</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3547827,22.4935613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Millennium Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3445493,22.5728209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Acharya Jagadish Chandra Bose Indian Botanic Garden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.2911207,22.5586871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Railway Museum</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.340321,22.5787096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Howrah Bridge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3468053,22.5851477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vidyasagar Setu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3287239,22.5564122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Princep Ghat-2</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3309431,22.5564779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>James Prinsep Ghat</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            88.3315282,22.5551356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
